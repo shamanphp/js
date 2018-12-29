@@ -19,8 +19,7 @@ for(let i = 0; i < 3; i++)
     {
        mainList.shopGoods[i] = a;
     }else{
-        
-        
+        i=i-1;
     }
 }
 /*
